@@ -1,0 +1,9 @@
+streamlit>=1.36
+torch>=2.2
+torchvision>=0.17
+transformers>=4.45
+faiss-cpu>=1.8
+pillow>=10.0
+numpy>=1.26,<3
+requests>=2.32
+langchain-core>=0.3
